@@ -1,5 +1,4 @@
-# Snake Odyssey: Themed Evolution
-
+# Snake Game Version 1.0.1
 A modern, feature-rich Snake game with dynamic themes, progressive difficulty, and smooth animations.
 
 ## 🎮 Features
