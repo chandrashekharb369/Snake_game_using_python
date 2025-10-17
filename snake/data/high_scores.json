@@ -1,0 +1,57 @@
+{
+  "sea": [
+    {
+      "score": 160,
+      "player": "Player",
+      "date": "2025-10-17T08:55:05.423092",
+      "food_eaten": 14,
+      "bonus_eaten": 1
+    }
+  ],
+  "forest": [
+    {
+      "score": 0,
+      "player": "Player",
+      "date": "2025-10-17T08:55:59.007728",
+      "food_eaten": 0,
+      "bonus_eaten": 0
+    },
+    {
+      "score": 0,
+      "player": "Player",
+      "date": "2025-10-17T08:58:00.653757",
+      "food_eaten": 0,
+      "bonus_eaten": 0
+    },
+    {
+      "score": 0,
+      "player": "Player",
+      "date": "2025-10-17T08:58:07.213429",
+      "food_eaten": 0,
+      "bonus_eaten": 0
+    },
+    {
+      "score": 0,
+      "player": "Player",
+      "date": "2025-10-17T08:58:11.382357",
+      "food_eaten": 0,
+      "bonus_eaten": 0
+    }
+  ],
+  "desert": [
+    {
+      "score": 120,
+      "player": "Player",
+      "date": "2025-10-17T09:02:03.699988",
+      "food_eaten": 10,
+      "bonus_eaten": 1
+    },
+    {
+      "score": 0,
+      "player": "Player",
+      "date": "2025-10-17T09:01:14.589182",
+      "food_eaten": 0,
+      "bonus_eaten": 0
+    }
+  ]
+}
