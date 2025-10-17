@@ -196,4 +196,3 @@ This project is created for educational , demonstrating advanced Python game dev
 
 ---
 
-**Snake Odyssey: Themed Evolution** - Where classic gameplay meets modern design! 🐍✨
